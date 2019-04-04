@@ -1,2 +1,2 @@
-# couchdb-nvd-json-loader
-CouchDB NVD JSON Loader
+# nvd-json-loader
+NVD JSON Loader (CouchDB)
